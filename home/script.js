@@ -63,6 +63,7 @@ document.body.addEventListener('keypress', (e) =>{
 });
 
 
+
 // vibration if input field is empty
 function vibratePhone() {
      if (navigator.vibrate) {
